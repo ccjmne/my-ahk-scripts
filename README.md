@@ -1,2 +1,7 @@
 # my-ahk-scripts
-My AutoHotkey Scripts
+
+My AutoHotkey (v2) scripts.
+
+## Minecraft
+
+- [Toggle "Hold LButton"](./minecraft/mc-toggle-lbutton-hold.ahk)
